@@ -6,7 +6,7 @@ Anastasiia Tonkova
 ## **How to start the project**
 Clone the repository and go to it on the command line:
 ```
-git clone git@github.com:nastyatonkova/api_yatube.git
+git clone git@github.com:nastyatonkova/api_final_yatube.git
 ```
 ```
 cd api_yatube
